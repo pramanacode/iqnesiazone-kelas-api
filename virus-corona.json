@@ -1,0 +1,26 @@
+{
+    "title": "Virus Corona",
+    "link": "javascript:",
+    "items": [
+        {
+            "title": "#1. Apa itu virus?",
+            "link": "2020/04/pengertian-virus.html"
+        },
+        {
+            "title": "#2. Perbedaan virus dan bakteri",
+            "link": "2020/04/perbedaan-virus-dan-bakteri.html"
+        },
+        {
+            "title": "#3. Mengenal apa itu COVID-19",
+            "link": "2020/04/covid-19.html"
+        },
+        {
+            "title": "#4. Proses penyebaran virus corona",
+            "link": "2020/04/penyebaran-virus-corona.html"
+        },
+        {
+            "title": "#5. Tips agar terhindar dari virus corona",
+            "link": "2020/04/cara-terhindar-dari-virus-corona.html"
+        }
+    ]
+}
