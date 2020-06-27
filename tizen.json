@@ -1,0 +1,31 @@
+{
+    "title": "Tizen",
+    "link": "javascript:",
+    "description": "Lorem ipsum dolor sit amet.",
+    "items": [
+        {
+            "title": "#1. Apa itu Tizen?",
+            "link": "2020/05/tentang-tizen-os.html"
+        },
+        {
+            "title": "#2. Tizen vs Android",
+            "link": "2017/12/tizen-vs-android-lebih-bagus-yang-mana.html"
+        },
+        {
+            "title": "#3. Membuat tampilan Android di Tizen",
+            "link": "2017/09/membuat-tampilan-os-android-di-tizen-samsung-Z2.html"
+        },
+        {
+            "title": "#4. Mengoperasikan aplikasi Android di Tizen",
+            "link": "2019/10/cara-mengoperasikan-semua-aplikasi-android-di-tizen.html"
+        },
+        {
+            "title": "#5. Solusi menginstal aplikasi Android di Tizen",
+            "link": "2017/09/mengatasi-aplikasi-android-tidak-bisa-diinstal-di-tizen.html"
+        },
+        {
+            "title": "#6. Download UC Mini for Tizen",
+            "link": "2019/11/download-uc-mini-for-tizen-tizen.html"
+        }
+    ]
+}
