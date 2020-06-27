@@ -1,0 +1,23 @@
+{
+    "title": "Binary Search",
+    "link": "javascript:",
+    "description": "Lorem ipsum dolor sit amet.",
+    "items": [
+        {
+            "title": "#1. Apa itu binary search?",
+            "link": "2020/05/pengertian-binary-search.html"
+        },
+        {
+            "title": "#2. Prinsip kerja binary search",
+            "link": "2020/05/prinsip-binary-search.html"
+        },
+        {
+            "title": "#3. Penerapan binary search di PHP",
+            "link": "2020/05/penerapan-algoritma-binary-search.html"
+        },
+        {
+            "title": "#4. Binary search multiple results di PHP",
+            "link": "2020/06/binary-search-multiple-results-php.html"
+        }
+    ]
+}
